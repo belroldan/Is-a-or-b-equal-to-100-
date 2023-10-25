@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: aliceblue;
+}
+
+button {
+    padding: 0.7em 3em;
+    font-size: large;
+    margin: auto;
+}
+
+input {
+    margin: 1em;
+    padding: 1em 5em;
+}
+
+
+
